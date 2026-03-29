@@ -541,7 +541,7 @@
         "BATCH_s04_img_2960.jpg",
         "BATCH_d07_img_320.jpg"
     ],
-    "val": [
+    "valid": [
         "BATCH_d07_img_2600.jpg",
         "GOPR0028.JPG",
         "batch_s02_img_121.jpg",
